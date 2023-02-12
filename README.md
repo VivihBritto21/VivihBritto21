@@ -29,8 +29,8 @@
   <p></p>  
 <div align="center"> 
   <a href="https://www.instagram.com/vivihbritto_galega/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:vivianebritope@hotmil.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    <a href = "mailto:vivianebritope@hotmil.com/Vivih Britto#9513"><img src="https://img.shields.io/badge/-discord-%23333?style=for-the-badge&logo=discordl&logoColor=white" target="_blank">
+  <a href = "mailto:vivianebritope2111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <a href = "mailto:vivianebritope@hotmail.com/Vivih Britto#9513"><img src="https://img.shields.io/badge/-discord-%23333?style=for-the-badge&logo=discordl&logoColor=white" target="_blank">
  
 </div>
 
