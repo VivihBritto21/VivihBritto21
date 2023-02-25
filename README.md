@@ -31,11 +31,8 @@
   <a href="https://www.instagram.com/vivihbritto_galega/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:vivianebritope2111@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me/Vivih Britto#9513" target="_blank"><img src="https://img.shields.io/badge/-discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank" target="_blank"></a> 
-  <a href"https://www.linkedin.com/in/viviane-brito-a19078266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
- 
+  <a href"https://www.linkedin.com/in/viviane-brito-a19078266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
- 
 </div>
 
 
